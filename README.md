@@ -48,14 +48,8 @@ Balanced representation of males and females.
 
 ---
 
-### 2. Mean ADWG0021 by Gender
-Comparison of early weight gain between male and female piglets.
 
-![ADWG0021 by Gender](images/adwg0021_by_gender.png)
-
----
-
-### 3. Histogram of ADWG0021 and ADWG2150
+### 2. Histogram of ADWG0021 and ADWG2150
 Distribution shapes and spread across individuals.
 
 ![ADWG0021 Histogram](images/adwg0021_histogram.png)
@@ -63,7 +57,7 @@ Distribution shapes and spread across individuals.
 
 ---
 
-### 4. Boxplots of ADWG0021
+### 3. Boxplots of ADWG0021
 - Overall distribution
 - Comparison across treatments
 
@@ -72,14 +66,14 @@ Distribution shapes and spread across individuals.
 
 ---
 
-### 5. Correlation: ADWG0021 vs ADWG0050 by Sex
+### 4. Correlation: ADWG0021 vs ADWG0050 by Sex
 Strong positive correlation, indicating early weight gain predicts total gain.
 
 ![Scatterplot ADWG0050 vs ADWG0021](images/scatter_adwg0050_adwg0021_sex.png)
 
 ---
 
-### 6. Statistical Testing Visuals
+### 5. Statistical Testing Visuals
 - Normality & variance tests
 - ANOVA and Kruskal-Wallis results
 - Post-hoc comparisons
