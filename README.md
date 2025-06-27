@@ -53,7 +53,6 @@ Balanced representation of males and females.
 - Overall distribution
 - Comparison across treatments
 
-![Boxplot ADWG0021 Overall](images/boxplot_adwg0021_overall.png)
 ![Boxplot ADWG0021 by Treatment](images/boxplot_adwg0021_treatment.png)
 
 ---
