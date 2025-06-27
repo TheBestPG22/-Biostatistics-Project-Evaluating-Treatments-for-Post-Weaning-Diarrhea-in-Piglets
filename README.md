@@ -38,8 +38,6 @@ To compare the effectiveness of 5 treatment strategies (A–E) on piglet growth 
 
 ## 📈 Key Visualizations
 
-> Be sure to include these visualizations as `.png` files in a `/images` folder and reference them like:
-> `![Gender Distribution](images/gender_distribution.png)`
 
 ### 1. Gender Distribution
 Balanced representation of males and females.
