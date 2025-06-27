@@ -46,18 +46,10 @@ Balanced representation of males and females.
 
 ![Gender Distribution](images/gender_distribution.png)
 
----
-
-
-### 2. Histogram of ADWG0021 and ADWG2150
-Distribution shapes and spread across individuals.
-
-![ADWG0021 Histogram](images/adwg0021_histogram.png)
-![ADWG2150 Histogram](images/adwg2150_histogram.png)
 
 ---
 
-### 3. Boxplots of ADWG0021
+### 2. Boxplots of ADWG0021
 - Overall distribution
 - Comparison across treatments
 
@@ -66,14 +58,14 @@ Distribution shapes and spread across individuals.
 
 ---
 
-### 4. Correlation: ADWG0021 vs ADWG0050 by Sex
+### 3. Correlation: ADWG0021 vs ADWG0050 by Sex
 Strong positive correlation, indicating early weight gain predicts total gain.
 
 ![Scatterplot ADWG0050 vs ADWG0021](images/scatter_adwg0050_adwg0021_sex.png)
 
 ---
 
-### 5. Statistical Testing Visuals
+### 4. Statistical Testing Visuals
 - Normality & variance tests
 - ANOVA and Kruskal-Wallis results
 - Post-hoc comparisons
