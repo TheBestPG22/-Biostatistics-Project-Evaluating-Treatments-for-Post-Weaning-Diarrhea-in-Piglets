@@ -34,7 +34,8 @@ To compare the effectiveness of 5 treatment strategies (A–E) on piglet growth 
 - **Design**: Balanced across gender and treatments
 - **Clean Data**: No missing or negative values
 
-  
+ 
+ ---
 ## 📦 R Libraries Used
 
 The statistical analysis and visualizations were implemented in R using the following libraries:
