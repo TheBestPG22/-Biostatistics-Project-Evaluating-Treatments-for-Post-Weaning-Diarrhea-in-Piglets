@@ -41,13 +41,8 @@ To compare the effectiveness of 5 treatment strategies (A–E) on piglet growth 
 The statistical analysis and visualizations were implemented in R using the following libraries:
 
 ``r
-library(car)         # Hypothesis testing, ANOVA
-library(dunn.test)   # Non-parametric post-hoc comparisons
-library(report)      # Summary reports of models
-library(multcomp)    # Multiple comparisons after ANOVA
-library(dplyr)       # Data wrangling
-library(skimr)       # Data summarization
-library(ggplot2)     # Graphical visualizations
+**library(car)**        # Hypothesis testing, ANOVA
+
 
 ---
 
