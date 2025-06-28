@@ -113,3 +113,9 @@ Strong positive correlation, indicating early weight gain predicts total gain.
    ```bash
    git clone https://github.com/yourusername/piglets-biostat-project.git
    cd piglets-biostat-project
+
+ ### 📎 Presentation
+
+View the full project presentation here:  
+[🔗 PWD Piglet Growth Analysis – Google Slides](https://docs.google.com/presentation/d/12WmaktjoYLGCR37m72KQ-oKDgqK_hkPBj7FYEDtVO2g/edit?usp=drive_link)
+
